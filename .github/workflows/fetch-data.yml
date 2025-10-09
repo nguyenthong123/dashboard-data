@@ -25,19 +25,17 @@ jobs:
           # Tạo thư mục data nếu nó chưa tồn tại
           mkdir -p data
           
-          # Tải file data_web.json (đã đổi tên thành users.json cho dễ quản lý)
+          # Tải file data người dùng (users.json)
           curl -L "https://drive.google.com/uc?export=download&id=1404085uVa15Hw10VGUp46b0zw0Rix35m" -o data/users.json
           echo "Downloaded users.json successfully."
 
-          # --- SAU NÀY BẠN SẼ THAY CÁC LINK GIẢ ĐỊNH NÀY ---
-          # curl -L "LINK_FILE_PRODUCTS_CUA_BAN" -o data/products.json
-          # echo "Downloaded products.json successfully."
-          # curl -L "LINK_FILE_SALES_CUA_BAN" -o data/salesData.json
-          # echo "Downloaded salesData.json successfully."
-          # curl -L "LINK_FILE_4_CUA_BAN" -o data/file4.json
-          # echo "Downloaded file4.json successfully."
-          # curl -L "LINK_FILE_5_CUA_BAN" -o data/file5.json
-          # echo "Downloaded file5.json successfully."
+          # Tải file thông tin sản phẩm (products.json)
+          curl -L "https://drive.google.com/uc?export=download&id=15fAteyESQusjBlJ0GoY-zCKVgsJtlKOB" -o data/products.json
+          echo "Downloaded products.json successfully."
+
+          # Tải file giá (đổi tên thành prices.json cho dễ hiểu)
+          curl -L "https://drive.google.com/uc?export=download&id=1A1RIs1bi66lvkA82IDCWg1IjvmEU73o-" -o data/prices.json
+          echo "Downloaded prices.json successfully."
 
       # Bước 3: Commit và push nếu có thay đổi
       - name: Commit and push if data changed
