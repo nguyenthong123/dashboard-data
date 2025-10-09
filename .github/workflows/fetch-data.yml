@@ -33,9 +33,18 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=15fAteyESQusjBlJ0GoY-zCKVgsJtlKOB" -o data/products.json
           echo "Downloaded products.json successfully."
 
-          # Tải file giá (đổi tên thành prices.json cho dễ hiểu)
+          # Tải file giá (prices.json)
           curl -L "https://drive.google.com/uc?export=download&id=1A1RIs1bi66lvkA82IDCWg1IjvmEU73o-" -o data/prices.json
           echo "Downloaded prices.json successfully."
+
+          # === THÊM 2 FILE MỚI VÀO ĐÂY ===
+          # Tải file đơn hàng tổng (orderData.json)
+          curl -L "https://drive.google.com/uc?export=download&id=19Yu-1qXSx_VsLPU2E16bUMIcQ5uKhKDb" -o data/orderData.json
+          echo "Downloaded orderData.json successfully."
+
+          # Tải file chi tiết đơn hàng (orderDetails.json)
+          curl -L "https://drive.google.com/uc?export=download&id=1nBIInD6TpXsVPMDkno9S_AbeScUj6-Sk" -o data/orderDetails.json
+          echo "Downloaded orderDetails.json successfully."
 
       # Bước 3: Commit và push nếu có thay đổi
       - name: Commit and push if data changed
