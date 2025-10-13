@@ -46,7 +46,7 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1nBIInD6TpXsVPMDkno9S_AbeScUj6-Sk" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
-      # Bước 3: Commit và push nếu có thay đổi
+      # Bước 3: Commit và push nếu có thay đổi (ĐÃ SỬA LỖI)
       - name: Commit and push if data changed
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -55,8 +55,14 @@ jobs:
           # Thêm tất cả các file trong thư mục data
           git add data/
           
-          if [ -n "$(git status --porcelain)" ]; then
+          # Kiểm tra xem có thay đổi nào không, nếu có thì mới commit và push
+          if ! git diff --staged --quiet; then
             git commit -m "chore: Auto-update data files from Google Drive"
+            
+            # **QUAN TRỌNG**: Lấy thay đổi mới nhất từ remote trước khi push
+            # Dùng --rebase để tránh tạo merge commit không cần thiết
+            git pull origin main --rebase
+            
             git push
             echo "Data changes committed and pushed."
           else
