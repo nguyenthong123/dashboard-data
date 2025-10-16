@@ -17,7 +17,8 @@
     "Giá chủ nhà": 135705,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -37,7 +38,8 @@
     "Giá chủ nhà": 155325,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -57,7 +59,8 @@
     "Giá chủ nhà": 200017,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -77,7 +80,8 @@
     "Giá chủ nhà": 295063,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -97,7 +101,8 @@
     "Giá chủ nhà": 338009,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -117,7 +122,8 @@
     "Giá chủ nhà": 402428,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -137,7 +143,8 @@
     "Giá chủ nhà": 458236,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -157,7 +164,8 @@
     "Giá chủ nhà": 480254,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -177,7 +185,8 @@
     "Giá chủ nhà": 488102,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -197,7 +206,8 @@
     "Giá chủ nhà": 529849,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -217,7 +227,8 @@
     "Giá chủ nhà": 624134,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -237,7 +248,8 @@
     "Giá chủ nhà": 718310,
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "vit-chuyen-dung-duravis",
@@ -257,7 +269,8 @@
     "Giá chủ nhà": 150000,
     "image sản phẩm": "vit-chuyen-dung-duravis.png",
     "width_mm": "",
-    "length_mm": ""
+    "length_mm": "",
+    "giá tại kho": 0
   },
   {
     "group_id": "vit-chuyen-dung-duravis",
@@ -277,7 +290,8 @@
     "Giá chủ nhà": 150000,
     "image sản phẩm": "vit-chuyen-dung-duravis.png",
     "width_mm": "",
-    "length_mm": ""
+    "length_mm": "",
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-van-go-durawood",
@@ -297,7 +311,8 @@
     "Giá chủ nhà": 108080,
     "image sản phẩm": "tam-van-go-durawood.png",
     "width_mm": 200,
-    "length_mm": 2440
+    "length_mm": 2440,
+    "giá tại kho": 0
   },
   {
     "group_id": "keo-xu-ly-mui-noi-durafiler",
@@ -317,7 +332,8 @@
     "Giá chủ nhà": 138000,
     "image sản phẩm": "keo-xu-ly-mui-noi-durafiler.png",
     "width_mm": "",
-    "length_mm": ""
+    "length_mm": "",
+    "giá tại kho": 0
   },
   {
     "group_id": "tam-op-pima",
@@ -337,7 +353,8 @@
     "Giá chủ nhà": 106315,
     "image sản phẩm": "tam-op-pima.png",
     "width_mm": 400,
-    "length_mm": 3000
+    "length_mm": 3000,
+    "giá tại kho": 78000
   },
   {
     "group_id": "lam-3-song",
@@ -357,6 +374,7 @@
     "Giá chủ nhà": 106315,
     "image sản phẩm": "lam-3-song.png",
     "width_mm": 210,
-    "length_mm": 3000
+    "length_mm": 3000,
+    "giá tại kho": 78000
   }
 ]
