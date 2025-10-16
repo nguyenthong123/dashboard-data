@@ -59,12 +59,12 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: Auto-update data files from Google Drive"
             
-            # **QUAN TRỌNG**: Lấy thay đổi mới nhất từ remote trước khi push
-            # Dùng --rebase để tránh tạo merge commit không cần thiết
-            git pull origin main --rebase
-            
-            git push
-            echo "Data changes committed and pushed."
-          else
+            # **QUAN TRỌNG**: Lấy thay đổi mới nhất từ remote trước khi push <-- Dòng này gây lỗi
+      # Dùng --rebase để tránh tạo merge commit không cần thiết
+      git pull origin main --rebase
+      
+      git push
+      echo "Data changes committed and pushed."
+    else
             echo "No data changes to commit."
           fi
