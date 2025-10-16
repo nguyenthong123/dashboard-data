@@ -5,14 +5,15 @@ name: Fetch All Data Files from Google Drive
 on:
   workflow_dispatch: # Cho phép chạy thủ công
   schedule:
-    - cron: '0 */6 * * *' # Chạy mỗi 6 giờ
+    # Chạy mỗi 6 giờ
+    - cron: '0 */6 * * *' 
 
 # Các công việc
 jobs:
   fetch-and-commit-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Cấp quyền ghi
+      contents: write # Cấp quyền ghi để có thể commit
 
     steps:
       # Bước 1: Checkout code
@@ -46,9 +47,10 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1nBIInD6TpXsVPMDkno9S_AbeScUj6-Sk" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
-      # Bước 3: Commit và push nếu có thay đổi (ĐÃ SỬA LỖI)
+      # Bước 3: Commit và push nếu có thay đổi (ĐÃ KHẮC PHỤC LỖI XUNG ĐỘT)
       - name: Commit and push if data changed
         run: |
+          # Thiết lập thông tin người dùng cho commit
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
@@ -59,12 +61,13 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: Auto-update data files from Google Drive"
             
-            # **QUAN TRỌNG**: Lấy thay đổi mới nhất từ remote trước khi push <-- Dòng này gây lỗi
-      # Dùng --rebase để tránh tạo merge commit không cần thiết
-      git pull origin main --rebase
-      
-      git push
-      echo "Data changes committed and pushed."
-    else
+            # **KHẮC PHỤC LỖI XUNG ĐỘT**:
+            # Sử dụng --force-with-lease để buộc đẩy (force push) commit mới
+            # Điều này ghi đè các thay đổi cũ trên các file dữ liệu, đảm bảo dữ liệu mới nhất
+            # được cập nhật mà không bị lỗi xung đột/rebase thất bại.
+            git push origin main --force-with-lease
+            
+            echo "Data changes committed and pushed successfully."
+          else
             echo "No data changes to commit."
           fi
