@@ -18,7 +18,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -39,7 +39,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -60,7 +60,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -81,7 +81,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -102,7 +102,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -123,7 +123,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -144,7 +144,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -165,7 +165,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -186,7 +186,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -207,7 +207,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -228,7 +228,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-xi-mang-duraflex",
@@ -249,7 +249,7 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png",
     "width_mm": 1220,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "vit-chuyen-dung-duravis",
@@ -270,7 +270,7 @@
     "image sản phẩm": "vit-chuyen-dung-duravis.png",
     "width_mm": "",
     "length_mm": "",
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "vit-chuyen-dung-duravis",
@@ -291,7 +291,7 @@
     "image sản phẩm": "vit-chuyen-dung-duravis.png",
     "width_mm": "",
     "length_mm": "",
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-van-go-durawood",
@@ -312,7 +312,7 @@
     "image sản phẩm": "tam-van-go-durawood.png",
     "width_mm": 200,
     "length_mm": 2440,
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "keo-xu-ly-mui-noi-durafiler",
@@ -333,7 +333,7 @@
     "image sản phẩm": "keo-xu-ly-mui-noi-durafiler.png",
     "width_mm": "",
     "length_mm": "",
-    "giá tại kho": 0
+    "giá tại kho": ""
   },
   {
     "group_id": "tam-op-pima",
@@ -342,13 +342,13 @@
     "kích thước": "8mm x 400 mm x 3 m",
     "số kg trên tấm": 4,
     "số tấm /kiện": 8,
-    "gói  1 kiện": 0,
-    "gói  2 kiện": 0,
-    "gói  4 kiện": 0,
-    "gói  5 kiện": 0,
-    "gói  6 kiện": 0,
-    "gói  10 kiện": 0,
-    "giá niêm yết": 0,
+    "gói  1 kiện": "",
+    "gói  2 kiện": "",
+    "gói  4 kiện": "",
+    "gói  5 kiện": "",
+    "gói  6 kiện": "",
+    "gói  10 kiện": "",
+    "giá niêm yết": "",
     "Giá Thầu Thợ": 100768,
     "Giá chủ nhà": 106315,
     "image sản phẩm": "tam-op-pima.png",
@@ -363,13 +363,13 @@
     "kích thước": "12mm x 210 mm x 3m",
     "số kg trên tấm": 3,
     "số tấm /kiện": 15,
-    "gói  1 kiện": 0,
-    "gói  2 kiện": 0,
-    "gói  4 kiện": 0,
-    "gói  5 kiện": 0,
-    "gói  6 kiện": 0,
-    "gói  10 kiện": 0,
-    "giá niêm yết": 0,
+    "gói  1 kiện": "",
+    "gói  2 kiện": "",
+    "gói  4 kiện": "",
+    "gói  5 kiện": "",
+    "gói  6 kiện": "",
+    "gói  10 kiện": "",
+    "giá niêm yết": "",
     "Giá Thầu Thợ": 100768,
     "Giá chủ nhà": 106315,
     "image sản phẩm": "lam-3-song.png",
