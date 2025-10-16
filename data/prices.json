@@ -415,8 +415,8 @@
     "Giá Thầu Thợ": 80620,
     "Giá chủ nhà": 85058,
     "image sản phẩm": "lam-4-song-cao.png",
-    "width_mm": "",
-    "length_mm": "",
+    "width_mm": 160,
+    "length_mm": 3000,
     "giá tại kho": 62000
   },
   {
@@ -435,9 +435,9 @@
     "giá niêm yết": "",
     "Giá Thầu Thợ": 80620,
     "Giá chủ nhà": 85058,
-    "image sản phẩm": "phao-co-tran.png",
-    "width_mm": "",
-    "length_mm": "",
+    "image sản phẩm": "phao-co-tran.jpg",
+    "width_mm": 100,
+    "length_mm": 3000,
     "giá tại kho": 62000
   }
 ]
