@@ -19,6 +19,9 @@ jobs:
       # Bước 1: Checkout code
       - name: Checkout repository
         uses: actions/checkout@v4
+        # Thêm 'with' để đảm bảo branch 'main' được thiết lập đúng cách 
+        with:
+          ref: main
 
       # Bước 2: Tải tất cả các file dữ liệu
       - name: Download all data files
@@ -47,7 +50,7 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1nBIInD6TpXsVPMDkno9S_AbeScUj6-Sk" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
-      # Bước 3: Commit và push nếu có thay đổi (ĐÃ KHẮC PHỤC LỖI XUNG ĐỘT)
+      # Bước 3: Commit và push nếu có thay đổi (Sử dụng --force để đảm bảo ghi đè)
       - name: Commit and push if data changed
         run: |
           # Thiết lập thông tin người dùng cho commit
@@ -61,13 +64,12 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: Auto-update data files from Google Drive"
             
-            # **KHẮC PHỤC LỖI XUNG ĐỘT**:
-            # Sử dụng --force-with-lease để buộc đẩy (force push) commit mới
-            # Điều này ghi đè các thay đổi cũ trên các file dữ liệu, đảm bảo dữ liệu mới nhất
-            # được cập nhật mà không bị lỗi xung đột/rebase thất bại.
-            git push origin main --force-with-lease
+            # **KHẮC PHỤC LỖI GHI ĐÈ**:
+            # Dùng 'git push --force' để buộc đẩy commit lên, ghi đè lịch sử.
+            # Điều này đảm bảo dữ liệu mới nhất được cập nhật và tránh lỗi [rejected].
+            git push origin main --force
             
-            echo "Data changes committed and pushed successfully."
+            echo "Data changes committed and pushed successfully (using --force)."
           else
             echo "No data changes to commit."
           fi
