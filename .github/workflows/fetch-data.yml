@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Cho phép chạy thủ công
   schedule:
     # Chạy mỗi 6 giờ
-    - cron: '0 */6 * * *' 
+    - cron: '0 */6 * * *'
 
 # Các công việc
 jobs:
@@ -16,10 +16,9 @@ jobs:
       contents: write # Cấp quyền ghi để có thể commit
 
     steps:
-      # Bước 1: Checkout code
+      # Bước 1: Checkout code từ nhánh main
       - name: Checkout repository
         uses: actions/checkout@v4
-        # Thêm 'with' để đảm bảo branch 'main' được thiết lập đúng cách 
         with:
           ref: main
 
@@ -41,7 +40,6 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1A1RIs1bi66lvkA82IDCWg1IjvmEU73o-" -o data/prices.json
           echo "Downloaded prices.json successfully."
 
-          # === THÊM 2 FILE MỚI VÀO ĐÂY ===
           # Tải file đơn hàng tổng (orderData.json)
           curl -L "https://drive.google.com/uc?export=download&id=19Yu-1qXSx_VsLPU2E16bUMIcQ5uKhKDb" -o data/orderData.json
           echo "Downloaded orderData.json successfully."
@@ -50,7 +48,7 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1nBIInD6TpXsVPMDkno9S_AbeScUj6-Sk" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
-      # Bước 3: Commit và push nếu có thay đổi (Sử dụng --force để đảm bảo ghi đè)
+      # Bước 3: Commit và push nếu có thay đổi
       - name: Commit and push if data changed
         run: |
           # Thiết lập thông tin người dùng cho commit
@@ -64,12 +62,14 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: Auto-update data files from Google Drive"
             
-            # **KHẮC PHỤC LỖI GHI ĐÈ**:
-            # Dùng 'git push --force' để buộc đẩy commit lên, ghi đè lịch sử.
-            # Điều này đảm bảo dữ liệu mới nhất được cập nhật và tránh lỗi [rejected].
-            git push origin main --force
+            # **KHẮC PHỤC LỖI [rejected] MỘT CÁCH AN TOÀN**:
+            # Kéo các thay đổi mới nhất từ remote về và đặt commit hiện tại lên trên cùng.
+            git pull origin main --rebase
             
-            echo "Data changes committed and pushed successfully (using --force)."
+            # Đẩy commit đã được cập nhật lên.
+            git push origin main
+            
+            echo "Data changes committed and pushed successfully."
           else
             echo "No data changes to commit."
           fi
