@@ -481,7 +481,7 @@
     "width_mm": 1220,
     "length_mm": 2440,
     "giá tại kho": 134000,
-    "product_slug": ""
+    "product_slug": "tam-alu-vietstar-co-ban"
   },
   {
     "group_id": "Alu-noi-that",
@@ -503,7 +503,7 @@
     "width_mm": 1220,
     "length_mm": 2440,
     "giá tại kho": 183000,
-    "product_slug": ""
+    "product_slug": "tam-alu-vietstar-va-go"
   },
   {
     "group_id": "tam-op-pima",
@@ -525,6 +525,6 @@
     "width_mm": 1220,
     "length_mm": 2440,
     "giá tại kho": 225000,
-    "product_slug": ""
+    "product_slug": "pvc-pima"
   }
 ]
