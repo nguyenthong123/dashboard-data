@@ -41,11 +41,11 @@ jobs:
           echo "Downloaded prices.json successfully."
 
           # Tải file đơn hàng tổng (orderData.json)
-          curl -L "https://drive.google.com/uc?export=download&id=1qcNSmPW5eXVV0fq_dQ46vRoQOashrsU2" -o data/orderData.json
+          curl -L "https://drive.google.com/uc?export=download&id=13knFLK6fEQo3rJSQEGb92BvEz1G27Fam" -o data/orderData.json
           echo "Downloaded orderData.json successfully."
 
           # Tải file chi tiết đơn hàng (orderDetails.json)
-          curl -L "https://drive.google.com/uc?export=download&id=1B09Cq3MmyihnRjInXDpYHeJuXIZITbZp" -o data/orderDetails.json
+          curl -L "https://drive.google.com/uc?export=download&id=1yf21HonwAy24qDk75GfIZhdQwWvk71QN" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
       # Bước 3: Commit và push nếu có thay đổi
