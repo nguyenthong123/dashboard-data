@@ -8146,5 +8146,81 @@
       "image sản phẩm": "san_pham_Images/1fca600f.imae sản phẩm.062336.jpg",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "1dbcdb91": [
+    {
+      "ngày lên đơn": "03/11/2025",
+      "id order chi tiết": "1e1a3e29",
+      "id order": "1dbcdb91",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURAFlex  18mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  18mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 524169,
+      "Trọng Lượng Riêng": 5286,
+      "đơn vị tính": "tấm",
+      "số lượng": 60,
+      "tổng tiền": 31450140,
+      "quy cách đóng kiện": 35,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/3ac5d9c3.imae sản phẩm.054812.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "03/11/2025",
+      "id order chi tiết": "407bd121",
+      "id order": "1dbcdb91",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURA vis Bắn Sàn-35 mm",
+      "tên sản phẩm": "DURA vis Bắn Sàn",
+      "Kích Thước": "35 mm",
+      "giá tiền": 98000,
+      "Trọng Lượng Riêng": 4,
+      "đơn vị tính": "bọc",
+      "số lượng": 4,
+      "tổng tiền": 392000,
+      "quy cách đóng kiện": 0,
+      "set kiện": 0,
+      "image sản phẩm": "san_pham_Images/cbea184b.imae sản phẩm.061845.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
+  ],
+  "2cc706f7": [
+    {
+      "ngày lên đơn": "03/11/2025",
+      "id order chi tiết": "e5719059",
+      "id order": "2cc706f7",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURAFlex  18mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  18mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 524169,
+      "Trọng Lượng Riêng": 6167,
+      "đơn vị tính": "tấm",
+      "số lượng": 70,
+      "tổng tiền": 36691830,
+      "quy cách đóng kiện": 35,
+      "set kiện": 2,
+      "image sản phẩm": "san_pham_Images/3ac5d9c3.imae sản phẩm.054812.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "03/11/2025",
+      "id order chi tiết": "6fc2eb35",
+      "id order": "2cc706f7",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURA vis Bắn Sàn-35 mm",
+      "tên sản phẩm": "DURA vis Bắn Sàn",
+      "Kích Thước": "35 mm",
+      "giá tiền": 98000,
+      "Trọng Lượng Riêng": 4,
+      "đơn vị tính": "bọc",
+      "số lượng": 4,
+      "tổng tiền": 392000,
+      "quy cách đóng kiện": 0,
+      "set kiện": 0,
+      "image sản phẩm": "san_pham_Images/cbea184b.imae sản phẩm.061845.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }

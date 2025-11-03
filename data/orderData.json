@@ -2089,5 +2089,39 @@
     "số tiền còn lại trong đơn": 9492000,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "03/11/2025",
+    "id order": "1dbcdb91",
+    "tên khách hàng": "Nội thất thiên vy",
+    "số điện thoại": "094 3606769",
+    "địa chỉ": "Ea Tam, Tp. Buôn Ma Thuột, Đắk Lắk, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 31842140,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 5290,
+    "tổng kiện trong đơn": 1,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 31842140,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "03/11/2025",
+    "id order": "2cc706f7",
+    "tên khách hàng": "Kho vlxd việt anh",
+    "số điện thoại": "096 5223914",
+    "địa chỉ": "QL14, Nhân Cơ, Gia Nghĩa, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 37083830,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 6171,
+    "tổng kiện trong đơn": 2,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 37083830,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
