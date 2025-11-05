@@ -8222,5 +8222,61 @@
       "image sản phẩm": "san_pham_Images/cbea184b.imae sản phẩm.061845.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "1fa8bd79": [
+    {
+      "ngày lên đơn": "05/11/2025",
+      "id order chi tiết": "63a3e0c8",
+      "id order": "1fa8bd79",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURAFlex  16mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  16mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 443723,
+      "Trọng Lượng Riêng": 3112,
+      "đơn vị tính": "tấm",
+      "số lượng": 40,
+      "tổng tiền": 17748920,
+      "quy cách đóng kiện": 40,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/3a9dff9d.imae sản phẩm.054733.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "05/11/2025",
+      "id order chi tiết": "0c8b2c75",
+      "id order": "1fa8bd79",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURAFlex  18mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  18mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 524169,
+      "Trọng Lượng Riêng": 3084,
+      "đơn vị tính": "tấm",
+      "số lượng": 35,
+      "tổng tiền": 18345915,
+      "quy cách đóng kiện": 35,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/3ac5d9c3.imae sản phẩm.054812.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "05/11/2025",
+      "id order chi tiết": "fc70a701",
+      "id order": "1fa8bd79",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURA vis Bắn Sàn-35 mm",
+      "tên sản phẩm": "DURA vis Bắn Sàn",
+      "Kích Thước": "35 mm",
+      "giá tiền": 98000,
+      "Trọng Lượng Riêng": 4,
+      "đơn vị tính": "bọc",
+      "số lượng": 4,
+      "tổng tiền": 392000,
+      "quy cách đóng kiện": 0,
+      "set kiện": 0,
+      "image sản phẩm": "san_pham_Images/cbea184b.imae sản phẩm.061845.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
