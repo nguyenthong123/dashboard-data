@@ -2174,5 +2174,39 @@
     "số tiền còn lại trong đơn": 8310000,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "15/11/2025",
+    "id order": "aea537ee",
+    "tên khách hàng": "Tôn sơn trang",
+    "số điện thoại": "",
+    "địa chỉ": "",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 66430275,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 11802,
+    "tổng kiện trong đơn": 4,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 66430275,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "15/11/2025",
+    "id order": "d6cd33ac",
+    "tên khách hàng": "Tôn sơn trang",
+    "số điện thoại": "",
+    "địa chỉ": "",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 27314784,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 2520,
+    "tổng kiện trong đơn": 63,
+    "ghi chú đơn hàng": "đơn hàng giá nét sau chiết khấu 20%",
+    "số tiền còn lại trong đơn": 27314784,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
