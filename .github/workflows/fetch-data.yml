@@ -48,6 +48,12 @@ jobs:
           curl -L "https://drive.google.com/uc?export=download&id=1yf21HonwAy24qDk75GfIZhdQwWvk71QN" -o data/orderDetails.json
           echo "Downloaded orderDetails.json successfully."
 
+          # =============================================================
+          # === THÊM MỚI TẠI ĐÂY: Tải file hướng dẫn thi công (guides.json) ===
+          # =============================================================
+          curl -L "https://drive.google.com/uc?export=download&id=1gCZpBerRU2OrkJfTt1vUKrBChLTtELPe" -o data/guides.json
+          echo "Downloaded guides.json successfully."
+
       # Bước 3: Commit và push nếu có thay đổi
       - name: Commit and push if data changed
         run: |
