@@ -8670,5 +8670,25 @@
       "image sản phẩm": "san_pham_Images/3a9dff9d.imae sản phẩm.054733.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "bbacc3e9": [
+    {
+      "ngày lên đơn": "21/11/2025",
+      "id order chi tiết": "2a8d84ed",
+      "id order": "bbacc3e9",
+      "tên nhóm ngành": "gói  4 kiện Tháng 11",
+      "tên khóa kết hợp sp": "DURAFlex  16mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  16mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 443723,
+      "Trọng Lượng Riêng": 6224,
+      "đơn vị tính": "tấm",
+      "số lượng": 80,
+      "tổng tiền": 35497840,
+      "quy cách đóng kiện": 40,
+      "set kiện": 2,
+      "image sản phẩm": "san_pham_Images/3a9dff9d.imae sản phẩm.054733.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
