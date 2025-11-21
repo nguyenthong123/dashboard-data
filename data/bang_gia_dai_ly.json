@@ -1,5 +1,7 @@
 [
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "0f3c958d",
     "Tên sản phẩm": "DURAFlex 4mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 18,
@@ -17,6 +19,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "362b3241",
     "Tên sản phẩm": "DURAFlex 4,5mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 22,
@@ -34,6 +38,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "24e7208e",
     "Tên sản phẩm": "DURAFlex  10mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 47,
@@ -51,6 +57,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "7776b467",
     "Tên sản phẩm": "DURAFlex  12mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 60,
@@ -68,6 +76,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "c339b524",
     "Tên sản phẩm": "DURAFlex  14mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 71,
@@ -85,6 +95,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "c64f522b",
     "Tên sản phẩm": "DURAFlex  15mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 73,
@@ -102,6 +114,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "1e574e23",
     "Tên sản phẩm": "DURAFlex  16mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 78,
@@ -119,6 +133,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "12c36177",
     "Tên sản phẩm": "DURAFlex  18mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 89,
@@ -136,6 +152,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "99f8d85e",
     "Tên sản phẩm": "DURAFlex  20mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 99,
@@ -153,6 +171,8 @@
     "image sản phẩm": "tam-xi-mang-duraflex.png"
   },
   {
+    "group_id": "vit-chuyen-dung-duravis",
+    "id_san_pham": "7ba79c08",
     "Tên sản phẩm": "DURA vis Bắn Sàn",
     "kích thước": "35 mm",
     "số kg trên tấm": 1,
@@ -170,6 +190,8 @@
     "image sản phẩm": "vit-chuyen-dung-duravis.png"
   },
   {
+    "group_id": "vit-chuyen-dung-duravis",
+    "id_san_pham": "1a416780",
     "Tên sản phẩm": "DURA vis Bắn Vách",
     "kích thước": "26 mm",
     "số kg trên tấm": 1,
@@ -187,6 +209,8 @@
     "image sản phẩm": "vit-chuyen-dung-duravis.png"
   },
   {
+    "group_id": "tam-van-go-durawood",
+    "id_san_pham": "c6d1fccc",
     "Tên sản phẩm": "Tấm dura wood 8mm vân sồi",
     "kích thước": "200 mm x 2m44",
     "số kg trên tấm": 6,
@@ -204,6 +228,8 @@
     "image sản phẩm": "durawood-6mmx200x2440.jpg,cong-trinh-durawooc-1.jpg,cong-trinh-durawooc-2.jpg,cong-trinh-durawooc-3.jpg,cong-trinh-durawooc-4.jpg,cong-trinh-durawooc-5.jpg,cong-trinh-durawooc-6.jpg"
   },
   {
+    "group_id": "keo-xu-ly-mui-noi-durafiler",
+    "id_san_pham": "bda7e2aa",
     "Tên sản phẩm": "keo xử lý mối nối DURAfiller",
     "kích thước": "hộp 1 kg",
     "số kg trên tấm": 1,
@@ -221,6 +247,8 @@
     "image sản phẩm": "keo-xu-ly-mui-noi-durafiler.png"
   },
   {
+    "group_id": "tam-op-pima",
+    "id_san_pham": "a157299f",
     "Tên sản phẩm": "tấm ốp pima",
     "kích thước": "8mm x 400 mm x 3 m",
     "số kg trên tấm": 5,
@@ -238,6 +266,8 @@
     "image sản phẩm": "tam-op-pima.png,nano-02.png,nano-03.png,nano-05.png,nano-07.png,nano-09.png,nano-10.png,nano-11.png,nano-12.png,nano-17.png,nano-26.png"
   },
   {
+    "group_id": "tam-op-pima",
+    "id_san_pham": "534a49d4",
     "Tên sản phẩm": "lam 3 sóng thấp PIMA",
     "kích thước": "12mm x 210 mm x 3m",
     "số kg trên tấm": 4,
@@ -255,6 +285,8 @@
     "image sản phẩm": "lam-3-song.png"
   },
   {
+    "group_id": "tam-op-pima",
+    "id_san_pham": "0c9b9fa9",
     "Tên sản phẩm": "lam 4 sóng thấp PIMA",
     "kích thước": "9mm x 152 mm x 3 m",
     "số kg trên tấm": 3,
@@ -272,6 +304,8 @@
     "image sản phẩm": "lam-4-song-thap.png"
   },
   {
+    "group_id": "tam-op-pima",
+    "id_san_pham": "18da338e",
     "Tên sản phẩm": "lam 4 sóng Cao PIMA",
     "kích thước": "20 mm x160 mm x3 m",
     "số kg trên tấm": 4,
@@ -289,6 +323,8 @@
     "image sản phẩm": "lam-4-song-cao.png"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "9e7b4ff8",
     "Tên sản phẩm": "Phào Trần",
     "kích thước": "25mm x 100 mm x 3m",
     "số kg trên tấm": 2,
@@ -306,6 +342,8 @@
     "image sản phẩm": "phao-co-tran.jpg"
   },
   {
+    "group_id": "Alu-noi-that",
+    "id_san_pham": "b2e9d62d",
     "Tên sản phẩm": "Tấm alu nội thất vietstar (màu cơ bản 3mm)",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 10,
@@ -323,6 +361,8 @@
     "image sản phẩm": "alu-noi-that-vietstar.png"
   },
   {
+    "group_id": "Alu-noi-that",
+    "id_san_pham": "3711b1e3",
     "Tên sản phẩm": "Tấm alu  vietstar vân gỗ mạ 0.07 (màu vân gỗ 3mm)",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 10,
@@ -340,6 +380,8 @@
     "image sản phẩm": "alu-noi-that-vietstar.png"
   },
   {
+    "group_id": "tam-op-pima",
+    "id_san_pham": "79d014f6",
     "Tên sản phẩm": "pvc pima 2,5mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 15,
@@ -357,6 +399,8 @@
     "image sản phẩm": "pvc-pima-noithat.png"
   },
   {
+    "group_id": "san-nhua-chiu-luc",
+    "id_san_pham": "42465fb5",
     "Tên sản phẩm": "Tấm sàn gác PIMA",
     "kích thước": "33,3 x 3 m",
     "số kg trên tấm": 12,
@@ -374,6 +418,8 @@
     "image sản phẩm": "San-gac-pima.jpg,san-gac-pima-w17.jpg,san-gac-pima-w38.jpg,san-gac-pima-w02.jpg,san-gac-pima-w46.jpg,san-gac-pima-w39.jpg,san-gac-pima-w45.jpg,san-gac-pima-w41.jpg,san-gac-pima-w36.jpg,san-gac-pima-w23.jpg,san-gac-pima-w13.jpg"
   },
   {
+    "group_id": "san-nhua-chiu-luc",
+    "id_san_pham": "fd00620f",
     "Tên sản phẩm": "Tấm ốp cầu thang PIMA",
     "kích thước": "200 x2440x22mm",
     "số kg trên tấm": 15,
@@ -391,6 +437,8 @@
     "image sản phẩm": "Bac-cau-thang-PIMA-3.jpg,TAM-BAC-CAU-THANG-W462-1.jpg,TAM-BAC-CAU-THANG-W452-768x512.jpg,TAM-BAC-CAU-THANG-W411-300x300.jpg,TAM-BAC-CAU-THANG-W392-768x512.jpg,TAM-BAC-CAU-THANG-W381-768x512.jpg,TAM-BAC-CAU-THANG-W36-768x1152.jpg,TAM-BAC-CAU-THANG-W171-1536x1024.jpg,TAM-BAC-CAU-THANG-W131-1536x1024.jpg"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "6cf967ff",
     "Tên sản phẩm": "nẹp bo cạnh ( phụ kiện cho tấm ốp cầu thang)",
     "kích thước": "33x2400x22mm",
     "số kg trên tấm": 3,
@@ -408,6 +456,8 @@
     "image sản phẩm": "NEP-BO-CANH.jpg"
   },
   {
+    "group_id": "tam-van-go-durawood",
+    "id_san_pham": "e939a4f9",
     "Tên sản phẩm": "durawood 6mm",
     "kích thước": "200 mm x 2m44",
     "số kg trên tấm": 15,
@@ -425,6 +475,8 @@
     "image sản phẩm": "durawood-6mmx200x2440.jpg,cong-trinh-durawooc-1.jpg,cong-trinh-durawooc-2.jpg,cong-trinh-durawooc-3.jpg,cong-trinh-durawooc-4.jpg,cong-trinh-durawooc-5.jpg,cong-trinh-durawooc-6.jpg"
   },
   {
+    "group_id": "tam-van-go-durawood",
+    "id_san_pham": "2038b60b",
     "Tên sản phẩm": "durawood 9mm",
     "kích thước": "200 mm x 2m44",
     "số kg trên tấm": 12,
@@ -442,6 +494,8 @@
     "image sản phẩm": "durawood-6mmx200x2440.jpg,cong-trinh-durawooc-1.jpg,cong-trinh-durawooc-2.jpg,cong-trinh-durawooc-3.jpg,cong-trinh-durawooc-4.jpg,cong-trinh-durawooc-5.jpg,cong-trinh-durawooc-6.jpg"
   },
   {
+    "group_id": "tam-van-go-durawood",
+    "id_san_pham": "cf211625",
     "Tên sản phẩm": "durawood 10mm",
     "kích thước": "200 mm x 2m44",
     "số kg trên tấm": 15,
@@ -459,6 +513,8 @@
     "image sản phẩm": "durawood-6mmx200x2440.jpg,cong-trinh-durawooc-1.jpg,cong-trinh-durawooc-2.jpg,cong-trinh-durawooc-3.jpg,cong-trinh-durawooc-4.jpg,cong-trinh-durawooc-5.jpg,cong-trinh-durawooc-6.jpg"
   },
   {
+    "group_id": "tam-van-go-durawood",
+    "id_san_pham": "bd4b2f62",
     "Tên sản phẩm": "durawood 12mm",
     "kích thước": "200 mm x 2m44",
     "số kg trên tấm": 18,
@@ -476,6 +532,8 @@
     "image sản phẩm": "durawood-6mmx200x2440.jpg,cong-trinh-durawooc-1.jpg,cong-trinh-durawooc-2.jpg,cong-trinh-durawooc-3.jpg,cong-trinh-durawooc-4.jpg,cong-trinh-durawooc-5.jpg,cong-trinh-durawooc-6.jpg"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "6f97655e",
     "Tên sản phẩm": "Tấm duraflex 6mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 30,
@@ -493,6 +551,8 @@
     "image sản phẩm": "duramong.jpg,duramong_1.jpg,duramong2.jpg,duramong3.jpg,duramong4.jpg,duramong5.jpg,duramong6.jpg,duramong8.jpg,duramong7.jpg,duramong9.jpg,duramong10.jpg,duramong11.jpg,duramong12.jpg"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "276246ea",
     "Tên sản phẩm": "Tấm duraflex 8mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 39,
@@ -510,6 +570,8 @@
     "image sản phẩm": "duramong.jpg,duramong_1.jpg,duramong2.jpg,duramong3.jpg,duramong4.jpg,duramong5.jpg,duramong6.jpg,duramong8.jpg,duramong7.jpg,duramong9.jpg,duramong10.jpg,duramong11.jpg,duramong12.jpg"
   },
   {
+    "group_id": "tam-xi-mang-duraflex",
+    "id_san_pham": "c0f46236",
     "Tên sản phẩm": "Tấm duraflex 9mm",
     "kích thước": "1m22x2m44",
     "số kg trên tấm": 43,
@@ -527,6 +589,8 @@
     "image sản phẩm": "vachdaynen.jpg,duravachday.jpg,tamdura9ly.jpg,vachdaydura2.jpg,vachduraday5.jpg,vachduraday6.jpg,vachduraday8.jpg"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "d2445fac",
     "Tên sản phẩm": "Nẹp V",
     "kích thước": "dài 3m",
     "số kg trên tấm": 1,
@@ -544,6 +608,8 @@
     "image sản phẩm": "nep_V.jpg,nep_V2.jpg,nep_V3.jpeg,nepV5.jpg"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "99b401f9",
     "Tên sản phẩm": "nẹp H",
     "kích thước": "25mmx3m",
     "số kg trên tấm": 1,
@@ -561,6 +627,8 @@
     "image sản phẩm": "nep_h1.jpg,nep_h2.jpg"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "4acc973c",
     "Tên sản phẩm": "nẹp góc trong",
     "kích thước": "33mmx3m",
     "số kg trên tấm": 1,
@@ -578,6 +646,8 @@
     "image sản phẩm": "nep_goc_trong2.jpg,nep_goc_trong1.jpg,"
   },
   {
+    "group_id": "phu_kien_nhua",
+    "id_san_pham": "a813ac1a",
     "Tên sản phẩm": "nẹp kết thúc",
     "kích thước": "25mmx3m",
     "số kg trên tấm": 1,
