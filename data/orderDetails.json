@@ -9134,5 +9134,43 @@
       "image sản phẩm": "san_pham_Images/3ac5d9c3.imae sản phẩm.054812.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "31a0ed5f": [
+    {
+      "ngày lên đơn": "06/12/2025",
+      "id order chi tiết": "2c0f2849",
+      "id order": "31a0ed5f",
+      "tên nhóm ngành": "Nhựa PIMA",
+      "tên khóa kết hợp sp": "Vách nhựa 2 mặt-400x3000",
+      "tên sản phẩm": "Vách nhựa 2 mặt",
+      "Kích Thước": "400x3000",
+      "giá tiền": 295000,
+      "Trọng Lượng Riêng": 72,
+      "đơn vị tính": "Tấm",
+      "số lượng": 12,
+      "tổng tiền": 3540000,
+      "quy cách đóng kiện": "",
+      "set kiện": 0,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "06/12/2025",
+      "id order chi tiết": "f907d7d1",
+      "id order": "31a0ed5f",
+      "tên nhóm ngành": "Nhựa PIMA",
+      "tên khóa kết hợp sp": "Chân đế ( phụ kiện vách ngăn)-85x2900",
+      "tên sản phẩm": "Chân đế ( phụ kiện vách ngăn)",
+      "Kích Thước": "85x2900",
+      "giá tiền": 140000,
+      "Trọng Lượng Riêng": 24,
+      "đơn vị tính": "Cây",
+      "số lượng": 8,
+      "tổng tiền": 1120000,
+      "quy cách đóng kiện": "",
+      "set kiện": 0,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
