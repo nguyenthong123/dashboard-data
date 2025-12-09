@@ -2395,5 +2395,39 @@
     "số tiền còn lại trong đơn": 4860000,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": "ctyngoctram4@gmail.com"
+  },
+  {
+    "thời gian lên đơn": "09/12/2025",
+    "id order": "c7ff6041",
+    "tên khách hàng": "Nmt nàng gái cs chính",
+    "số điện thoại": "098 5905955",
+    "địa chỉ": "Quảng Sơn, Gia Nghĩa, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 67653280,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 11768,
+    "tổng kiện trong đơn": 4,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 67653280,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "09/12/2025",
+    "id order": "68ba40b4",
+    "tên khách hàng": "Nmt nàng gái cs chính",
+    "số điện thoại": "098 5905955",
+    "địa chỉ": "Quảng Sơn, Gia Nghĩa, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 67132035,
+    "tên dịch vụ": "",
+    "số tiền dịch vụ": "",
+    "tổng khối lượng đơn hàng ": 11986,
+    "tổng kiện trong đơn": 4,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 67132035,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
