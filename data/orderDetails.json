@@ -9284,5 +9284,43 @@
       "image sản phẩm": "san_pham_Images/d027b40e.imae sản phẩm.064915.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "ddbbd346": [
+    {
+      "ngày lên đơn": "10/12/2025",
+      "id order chi tiết": "653023ac",
+      "id order": "ddbbd346",
+      "tên nhóm ngành": "gói  4 kiện Tháng 12",
+      "tên khóa kết hợp sp": "DURAFlex  14mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  14mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 398223,
+      "Trọng Lượng Riêng": 3182,
+      "đơn vị tính": "tấm",
+      "số lượng": 45,
+      "tổng tiền": 17920035,
+      "quy cách đóng kiện": 40,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/8fe0a920.imae sản phẩm.051725.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "10/12/2025",
+      "id order chi tiết": "bfc92379",
+      "id order": "ddbbd346",
+      "tên nhóm ngành": "gói  4 kiện Tháng 12",
+      "tên khóa kết hợp sp": "DURAFlex  16mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  16mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 443723,
+      "Trọng Lượng Riêng": 3112,
+      "đơn vị tính": "tấm",
+      "số lượng": 40,
+      "tổng tiền": 17748920,
+      "quy cách đóng kiện": 40,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/3a9dff9d.imae sản phẩm.054733.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
