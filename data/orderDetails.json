@@ -9322,5 +9322,45 @@
       "image sản phẩm": "san_pham_Images/3a9dff9d.imae sản phẩm.054733.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "4b2327c6": [
+    {
+      "ngày lên đơn": "12/12/2025",
+      "id order chi tiết": "102363de",
+      "id order": "4b2327c6",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "Tấm Duraflex 10mm-1m22x2m44",
+      "tên sản phẩm": "Tấm Duraflex 10mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 369200,
+      "Trọng Lượng Riêng": 11750,
+      "đơn vị tính": "Tấm",
+      "số lượng": 250,
+      "tổng tiền": 92300000,
+      "quy cách đóng kiện": 60,
+      "set kiện": 4,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
+  ],
+  "b317c8d8": [
+    {
+      "ngày lên đơn": "12/12/2025",
+      "id order chi tiết": "08ca44d4",
+      "id order": "b317c8d8",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "Tấm Duraflex 8mm-1m22x2m44",
+      "tên sản phẩm": "Tấm Duraflex 8mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 270700,
+      "Trọng Lượng Riêng": 9750,
+      "đơn vị tính": "Tấm",
+      "số lượng": 250,
+      "tổng tiền": 67675000,
+      "quy cách đóng kiện": 80,
+      "set kiện": 3,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }

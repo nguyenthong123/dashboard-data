@@ -2446,5 +2446,39 @@
     "số tiền còn lại trong đơn": 35668955,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "12/12/2025",
+    "id order": "4b2327c6",
+    "tên khách hàng": "Nhà máy tôn nam phát",
+    "số điện thoại": "0329334848",
+    "địa chỉ": "Kiến Thành, Đắk R'Lấp, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 92300000,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 6780400,
+    "tổng khối lượng đơn hàng ": 11750,
+    "tổng kiện trong đơn": 4,
+    "ghi chú đơn hàng": "Chiết khấu gói 4 kiện",
+    "số tiền còn lại trong đơn": 85519600,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "12/12/2025",
+    "id order": "b317c8d8",
+    "tên khách hàng": "Nhà máy tôn nam phát",
+    "số điện thoại": "0329334848",
+    "địa chỉ": "Kiến Thành, Đắk R'Lấp, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 67675000,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 3393720,
+    "tổng khối lượng đơn hàng ": 9750,
+    "tổng kiện trong đơn": 3,
+    "ghi chú đơn hàng": "Chiết khấu gói 3 kiện",
+    "số tiền còn lại trong đơn": 64281280,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
