@@ -2480,5 +2480,39 @@
     "số tiền còn lại trong đơn": 64281280,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "13/12/2025",
+    "id order": "e35f9e95",
+    "tên khách hàng": "Nhà máy tôn nhật đăng",
+    "số điện thoại": "036 5194063",
+    "địa chỉ": "Đắk Glong, Đắk Nông, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 78373000,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 6780400,
+    "tổng khối lượng đơn hàng ": 12420,
+    "tổng kiện trong đơn": 4,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 71592600,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "13/12/2025",
+    "id order": "f6ae3078",
+    "tên khách hàng": "Xuân quỳnh ( tuy đức )",
+    "số điện thoại": "0987133939",
+    "địa chỉ": "Đắk Búk So, Tuy Đức, Đắk Nông, Việt Nam",
+    "trạng thái": "PIMA Đơn Chốt",
+    "tổng phụ": 3200000,
+    "tên dịch vụ": "Vận chuyển",
+    "số tiền dịch vụ": 200000,
+    "tổng khối lượng đơn hàng ": 66,
+    "tổng kiện trong đơn": 0,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 3400000,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": "ctyngoctram4@gmail.com"
   }
 ]

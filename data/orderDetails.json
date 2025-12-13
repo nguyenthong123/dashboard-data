@@ -9362,5 +9362,81 @@
       "image sản phẩm": "",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "e35f9e95": [
+    {
+      "ngày lên đơn": "13/12/2025",
+      "id order chi tiết": "d5048fcb",
+      "id order": "e35f9e95",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "DURAFlex  16mm-1m22x2m44",
+      "tên sản phẩm": "DURAFlex  16mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 486100,
+      "Trọng Lượng Riêng": 9336,
+      "đơn vị tính": "tấm",
+      "số lượng": 120,
+      "tổng tiền": 58332000,
+      "quy cách đóng kiện": 40,
+      "set kiện": 3,
+      "image sản phẩm": "san_pham_Images/7280082f.imae sản phẩm.035105.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "13/12/2025",
+      "id order chi tiết": "252a6908",
+      "id order": "e35f9e95",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "Duraflex 18mm-1m22x2m44",
+      "tên sản phẩm": "Duraflex 18mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 572600,
+      "Trọng Lượng Riêng": 3084,
+      "đơn vị tính": "Tấm",
+      "số lượng": 35,
+      "tổng tiền": 20041000,
+      "quy cách đóng kiện": 35,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/a4c1351e.imae sản phẩm.033841.jpg",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
+  ],
+  "f6ae3078": [
+    {
+      "ngày lên đơn": "13/12/2025",
+      "id order chi tiết": "19bf2021",
+      "id order": "f6ae3078",
+      "tên nhóm ngành": "Nhựa PIMA",
+      "tên khóa kết hợp sp": "Vách nhựa 2 mặt-400x3000",
+      "tên sản phẩm": "Vách nhựa 2 mặt",
+      "Kích Thước": "400x3000",
+      "giá tiền": 295000,
+      "Trọng Lượng Riêng": 48,
+      "đơn vị tính": "Tấm",
+      "số lượng": 8,
+      "tổng tiền": 2360000,
+      "quy cách đóng kiện": "",
+      "set kiện": 0,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "13/12/2025",
+      "id order chi tiết": "5b595c5b",
+      "id order": "f6ae3078",
+      "tên nhóm ngành": "Nhựa PIMA",
+      "tên khóa kết hợp sp": "Chân đế ( phụ kiện vách ngăn)-85x2900",
+      "tên sản phẩm": "Chân đế ( phụ kiện vách ngăn)",
+      "Kích Thước": "85x2900",
+      "giá tiền": 140000,
+      "Trọng Lượng Riêng": 18,
+      "đơn vị tính": "Cây",
+      "số lượng": 6,
+      "tổng tiền": 840000,
+      "quy cách đóng kiện": "",
+      "set kiện": 0,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
