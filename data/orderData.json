@@ -2514,5 +2514,39 @@
     "số tiền còn lại trong đơn": 3400000,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": "ctyngoctram4@gmail.com"
+  },
+  {
+    "thời gian lên đơn": "15/12/2025",
+    "id order": "cad7ae8b",
+    "tên khách hàng": "Nội thất hoàng khôi",
+    "số điện thoại": "0941 359 595",
+    "địa chỉ": "Phường An Lạc, Buôn Hồ, Đắk Lắk, Việt Nam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 6065000,
+    "tên dịch vụ": "Vận chuyển",
+    "số tiền dịch vụ": 600000,
+    "tổng khối lượng đơn hàng ": 20,
+    "tổng kiện trong đơn": 6,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 6665000,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "15/12/2025",
+    "id order": "95e3a6dc",
+    "tên khách hàng": "thông nháp 2",
+    "số điện thoại": "1245566",
+    "địa chỉ": "Nhân Cơ, Gia Nghĩa, Dak Nong, Vietnam",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 70568200,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 2337720,
+    "tổng khối lượng đơn hàng ": 10009,
+    "tổng kiện trong đơn": 2,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 68230480,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
