@@ -9646,5 +9646,63 @@
       "image sản phẩm": "san_pham_Images/79411181.imae sản phẩm.034505.png",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "8957a7a8": [
+    {
+      "ngày lên đơn": "17/12/2025",
+      "id order chi tiết": "f85823d6",
+      "id order": "8957a7a8",
+      "tên nhóm ngành": "Tấm xi măng vân gỗ",
+      "tên khóa kết hợp sp": "Tấm dura wood 8mm vân sồi-200 x 2440",
+      "tên sản phẩm": "Tấm dura wood 8mm vân sồi",
+      "Kích Thước": "200 x 2440",
+      "giá tiền": 79324,
+      "Trọng Lượng Riêng": 1142,
+      "đơn vị tính": "Thanh",
+      "số lượng": 204,
+      "tổng tiền": 16182096,
+      "quy cách đóng kiện": 6,
+      "set kiện": 34,
+      "image sản phẩm": "san_pham_Images/ff5afc65.imae sản phẩm.070144.jpg",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
+  ],
+  "c0f85115": [
+    {
+      "ngày lên đơn": "17/12/2025",
+      "id order chi tiết": "bcb2f155",
+      "id order": "c0f85115",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "Tấm Duraflex 8mm-1m22x2m44",
+      "tên sản phẩm": "Tấm Duraflex 8mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 270700,
+      "Trọng Lượng Riêng": 5880,
+      "đơn vị tính": "tấm",
+      "số lượng": 154,
+      "tổng tiền": 41687800,
+      "quy cách đóng kiện": 80,
+      "set kiện": 1,
+      "image sản phẩm": "san_pham_Images/79411181.imae sản phẩm.034505.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    },
+    {
+      "ngày lên đơn": "17/12/2025",
+      "id order chi tiết": "2a8c099e",
+      "id order": "c0f85115",
+      "tên nhóm ngành": "giá niêm yết",
+      "tên khóa kết hợp sp": "Tấm Duraflex 12 mm-1m22x2m44",
+      "tên sản phẩm": "Tấm Duraflex 12 mm",
+      "Kích Thước": "1m22x2m44",
+      "giá tiền": 420400,
+      "Trọng Lượng Riêng": 4740,
+      "đơn vị tính": "Tấm",
+      "số lượng": 79,
+      "tổng tiền": 33211600,
+      "quy cách đóng kiện": 50,
+      "set kiện": 1,
+      "image sản phẩm": "",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }

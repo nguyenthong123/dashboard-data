@@ -2599,5 +2599,39 @@
     "số tiền còn lại trong đơn": 69313280,
     "email người phụ trách": "nbt1024@gmail.com",
     "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "17/12/2025",
+    "id order": "8957a7a8",
+    "tên khách hàng": "Sắt thép đức thành",
+    "số điện thoại": "097 1035627",
+    "địa chỉ": "Km 15 , xã đông hoà , krong pắc , đắk lắk",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 16182096,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 1160000,
+    "tổng khối lượng đơn hàng ": 1142,
+    "tổng kiện trong đơn": 34,
+    "ghi chú đơn hàng": "trừ chiết khấu quý gói 6 kiện dura",
+    "số tiền còn lại trong đơn": 15022096,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
+  },
+  {
+    "thời gian lên đơn": "17/12/2025",
+    "id order": "c0f85115",
+    "tên khách hàng": "Anh linh",
+    "số điện thoại": "098 6657008",
+    "địa chỉ": "",
+    "trạng thái": "Đơn Nháp",
+    "tổng phụ": 74899400,
+    "tên dịch vụ": "Chiết Khấu",
+    "số tiền dịch vụ": 2337720,
+    "tổng khối lượng đơn hàng ": 10620,
+    "tổng kiện trong đơn": 2,
+    "ghi chú đơn hàng": "",
+    "số tiền còn lại trong đơn": 72561680,
+    "email người phụ trách": "nbt1024@gmail.com",
+    "mail khách hàng": ""
   }
 ]
