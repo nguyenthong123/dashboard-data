@@ -9704,5 +9704,25 @@
       "image sản phẩm": "",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "275dde32": [
+    {
+      "ngày lên đơn": "19/12/2025",
+      "id order chi tiết": "a07935b4",
+      "id order": "275dde32",
+      "tên nhóm ngành": "keo durafiler",
+      "tên khóa kết hợp sp": "keo xử lý mối nối DURAfiller-hộp 1 kg",
+      "tên sản phẩm": "keo xử lý mối nối DURAfiller",
+      "Kích Thước": "hộp 1 kg",
+      "giá tiền": 68000,
+      "Trọng Lượng Riêng": 20,
+      "đơn vị tính": "hộp",
+      "số lượng": 20,
+      "tổng tiền": 1360000,
+      "quy cách đóng kiện": 24,
+      "set kiện": 0,
+      "image sản phẩm": "san_pham_Images/0bfd3d35.imae sản phẩm.052146.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
