@@ -9870,5 +9870,25 @@
       "image sản phẩm": "",
       "email phụ trách": "nbt1024@gmail.com"
     }
+  ],
+  "aeb44bf7": [
+    {
+      "ngày lên đơn": "07/03/2026",
+      "id order chi tiết": "ebd5d3b1",
+      "id order": "aeb44bf7",
+      "tên nhóm ngành": "Tấm Ốp NaNo",
+      "tên khóa kết hợp sp": "hộp nano 11-8  x  400 x  3 m",
+      "tên sản phẩm": "hộp nano 11",
+      "Kích Thước": "8  x  400 x  3 m",
+      "giá tiền": 78000,
+      "Trọng Lượng Riêng": 200,
+      "đơn vị tính": "hộp",
+      "số lượng": 50,
+      "tổng tiền": 3900000,
+      "quy cách đóng kiện": 8,
+      "set kiện": 6,
+      "image sản phẩm": "san_pham_Images/90c0427c.imae sản phẩm.051905.png",
+      "email phụ trách": "nbt1024@gmail.com"
+    }
   ]
 }
